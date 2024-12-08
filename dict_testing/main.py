@@ -29,7 +29,7 @@ def main():
     student3.dob = ("2001-02-10")
     
     # Add more students as required
-    student4.name = "Aswi"
+    student4.name = "Aswika"
     student4.age = 19
     student4.grade = "C"
     student4.dob = ("2004-07-01")
